@@ -1,5 +1,5 @@
 <?php
-$strConnection = mysqli_connect('localhost', 'root', '6451389', 'CSE485');
+$strConnection = mysqli_connect('localhost', 'root', '6451389', 'w3cms');
 if (!$strConnection) {
   die('Can not connect');
 }
